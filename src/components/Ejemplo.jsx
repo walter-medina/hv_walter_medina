@@ -1,11 +1,11 @@
 import React from 'react';
 //sfc
-
 const Ejemplo = () => {
-    return (
-        <h3>Mi primer componente</h3>
-      );
+    return ( 
+        <div>
+            <h3>mi componente</h3>
+        </div>
+     );
 }
  
 export default Ejemplo;
-
